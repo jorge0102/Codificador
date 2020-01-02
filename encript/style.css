@@ -1,0 +1,14 @@
+.imagen{
+    background-image: url(https://antiun.com/wp-content/uploads/2019/05/tipos-encriptacion-de-datos-1024x1024.png);
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+.mover1{
+    width: 450px;
+
+}
+.color2{
+    background-color: rgba(0, 0, 255, 0.404);
+    border:rgba(0, 0, 255, 0.404) ;
+}
